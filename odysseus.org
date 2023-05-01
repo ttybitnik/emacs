@@ -23,7 +23,6 @@ The current configuration focuses on:
   
 /Contact me if you'd like to suggest a package. I'm always glad to learn about new ones./
 
-<<<<<<< HEAD
 ** Dependencies
 
 List of packages and programs that need to be installed: 
@@ -37,9 +36,7 @@ List of packages and programs that need to be installed:
   - jedi (python)
   - flake8 (python)
   - autopep8 (python)
-
-=======
->>>>>>> e20775ac6f99028825cc33a070c441409991f41e
+    
 ** License
 
 This project is licensed under the GNU General Public License v3.0 (GPL-3.0), unless an exception is made explicit in context. The GPL is a copyleft license that guarantees the freedom to use, modify, and distribute software. It ensures that users have control over the software they use and promotes collaboration and sharing of knowledge. By requiring that derivative works of GPL-licensed software also be licensed under the GPL, the license ensures that the freedoms it provides are extended to future generations of users and developers. Please see the =LICENSE= file for more information.
