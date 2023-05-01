@@ -5,9 +5,11 @@
 
 #+html: <p align="center"><img src="img/polytropos.png" /></p>
 
-My personal GNU Emacs. The main config file is a =.org= named after *Odysseus*, which is loaded through =init.el=. As you may have noticed, this is the configuration itself due org-mode literate programming capabilities. 
+This is my personal *GNU Emacs* configuration. The main configuration file is an =.org= file named after /Odysseus/, which is loaded through =init.el=. As you may have noticed, this is the configuration itself due to *org-mode* literate programming capabilities.
 
-Current configuration focuses:
+** Features
+
+The current configuration focuses on:
 
 - Coding
 - Note-taking
@@ -19,7 +21,11 @@ Current configuration focuses:
 - Emailing
 - IRC 
   
-/Contact me if you'd like to suggest a package. Always glad to learn new ones./
+/Contact me if you'd like to suggest a package. I'm always glad to learn about new ones./
+
+** License
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0), unless an exception is made explicit in context. The GPL is a copyleft license that guarantees the freedom to use, modify, and distribute software. It ensures that users have control over the software they use and promotes collaboration and sharing of knowledge. By requiring that derivative works of GPL-licensed software also be licensed under the GPL, the license ensures that the freedoms it provides are extended to future generations of users and developers. Please see the =LICENSE= file for more information.
 
 ** Table of contents                                                 :TOC_3:
   - [[#dependencies][Dependencies]]
