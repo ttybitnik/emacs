@@ -1139,6 +1139,8 @@ The current configuration focuses on:
     (erc-modules '(autoaway autojoin button completion fill irccontrols keep-place list
                             match menu move-to-prompt netsplit networks noncommands readonly
                             ring stamp track hl-nicks scrolltobottom))
+    :hook
+    (erc-mode-hook . (lambda () (centered-cursor-mode -1)))
     :config
     (defun erc-login/ttybitnik ()
       "ERC libera.chat login with SASL."
